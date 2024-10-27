@@ -22,6 +22,6 @@
 - [1. 헤드퍼스트 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
 - [2. 쉽겨 배우어 바로 쓰어먹는 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9B%8C%20%EB%B0%94%EB%A1%9C%20%EC%8D%A8%EB%A8%B9%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
 
-### 🌟 부트캠프 1차 프로젝트 (뮤지컬 예매 사이트)
+### 🌟 부트캠프 1차 팀프로젝트 (뮤지컬 예매 사이트)
 - [1. BookMyShow(예매하다)](https://github.com/bohyun86/BookMyShow)
 

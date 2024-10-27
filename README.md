@@ -9,13 +9,13 @@
 ## 스킬`
 | 언어 및 기술      | 교육플랫폼 이수증                                                                                                                    | 미니프로젝트 |
 |--------------|------------------------------------------------------------------------------------------------------------------------------|-----------|
-| 자바           | [★ Introduction to Java (by Hyperskill) ](hyperskill_certificate/introduction_to_java.pdf)                                   |           |
-| 자바스크립트       | [★ Introduction to JavaScript (by Hyperskill) ](hyperskill_certificate/introduction_to_javaScript.pdf)                       |           |
-| HTML         | [★ Introduction to Frontend (by Hyperskill) ](hyperskill_certificate/introduction_to_Frontend.pdf)                           |           |
+| 자바           | [★ Introduction to Java (by Hyperskill) ](https://github.com/user-attachments/files/17532760/Introduction_to_Java.pdf)                                   |           |
+| 자바스크립트       | [Introduction_to_JavaScript.pdf](https://github.com/user-attachments/files/17532761/Introduction_to_JavaScript.pdf)               |           |
+| HTML         | [★ Introduction to Frontend (by Hyperskill) ](https://github.com/user-attachments/files/17532759/Introduction_to_Frontend.pdf)                           |           |
 | CSS          | ""                                                                                                                           |           |
-| Spring       | [★ Introduction to Spring Boot with Java (by Hyperskill) ](hyperskill_certificate/introduction_to_Spring_Boot_with_Java.pdf) |           |
+| Spring       | [Introduction_to_Spring_Boot_with_Java.pdf](https://github.com/user-attachments/files/17532763/Introduction_to_Spring_Boot_with_Java.pdf)|           |
 | Bootstrap    |                                                                                                                              |           |
 | Typescript   |                                                                                                                              |           |
 | Web Security |                                                                                                                              |           |
-| SQL          | [★ Introduction to SQL (by Hyperskill) ](hyperskill_certificate/introduction_to_SQL.pdf)                                     |           |
-|Kotlin | [★ Introduction to Kotlin (by Hyperskill) ](hyperskill_certificate/introduction_to_Kotlin.pdf)                               | |
+| SQL          | [Introduction_to_SQL.pdf](https://github.com/user-attachments/files/17532764/Introduction_to_SQL.pdf)                            |           |
+|Kotlin        | [Introduction_to_Kotlin.pdf](https://github.com/user-attachments/files/17532762/Introduction_to_Kotlin.pdf)                  |           |

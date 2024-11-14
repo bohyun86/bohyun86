@@ -19,9 +19,12 @@
 | ![Static Badge](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [1. Introduction to SQL : Hyperskill](https://hyperskill.org/certificates/7edc5518-ea6e-4ae5-b73f-c4d01d9c5009.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ![Static Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) | [1. Introduction to Kotlin : Hyperskill](https://hyperskill.org/certificates/ff15356a-f7b5-4e73-9fca-ca8f69af1951.pdf) <br/> 2. Jetpack Compose for Android Developers : Hyperskill                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-### 📖 디자인 패턴 관련 서적 학습
-- [1. 헤드퍼스트 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
-- [2. 쉽게 배워 바로 써먹는 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9B%8C%20%EB%B0%94%EB%A1%9C%20%EC%8D%A8%EB%A8%B9%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
+### 📖 서적 및 개인 학습
+- **디자인 패턴** [1. 헤드퍼스트 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
+- **디자인 패턴** [2. 쉽게 배워 바로 써먹는 디자인 패턴](https://github.com/bohyun86/reading-books-for-programmers/tree/main/%EC%89%BD%EA%B2%8C%20%EB%B0%B0%EC%9B%8C%20%EB%B0%94%EB%A1%9C%20%EC%8D%A8%EB%A8%B9%EB%8A%94%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
+- **Docker** [1. Docker Deep Dive: Advanced Techniques : educative ](https://github.com/bohyun86/docker-study)
+- **Linux** [1.이것이 리눅스다](https://github.com/bohyun86/linux-use-case-example)
+- **Spring** [1. JPA 관계 설정](https://github.com/bohyun86/jpa-use-case-examples)
 
 ### 🌟 부트캠프 1차 팀프로젝트 (뮤지컬 예매 사이트)
 - [1. BookMyShow(예매하다)](https://github.com/bohyun86/BookMyShow)

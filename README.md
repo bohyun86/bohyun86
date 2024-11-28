@@ -28,6 +28,4 @@
 
 ### 🌟 부트캠프 1차 팀프로젝트 (뮤지컬 예매 사이트)
 - [1. BookMyShow(예매하다)](https://github.com/bohyun86/BookMyShow)
-- 
-- 
 
